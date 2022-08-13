@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    height: 40px;
+    background-color: #333333;
+}
+
+.box .nav {
+    margin-left: 62px;
+}
+
+.nav .option {
+    text-decoration: none;
+    color: #b0b0b0;
+    font-size: 12px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.box .nav .line {
+    color: #3c423c;
+    margin: 0 8px;
+}
